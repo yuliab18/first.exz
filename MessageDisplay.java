@@ -1,0 +1,3 @@
+interface MessageDisplay {
+    void displayMessage();
+}
